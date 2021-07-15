@@ -14,8 +14,6 @@ baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 zhihu_username:     wang-jia-zhen-17-88
 github_username:    teamwong111
-# twitter_username:  huxpro
-# facebook_username:  huxpro
 
 
 
@@ -78,22 +76,16 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 
-# Friends
-friends: [
+# Follows
+Follows: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "Ezyang Blog",
+        href: "http://blog.ezyang.com/"
     },{
-        title: "Foo",
-        href: "#"
+        title: "Marisa Page",
+        href: "http://marisa.moe/"
     },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "YinWang Blog",
+        href: "https://yinwang0.wordpress.com/"
     }
 ]
