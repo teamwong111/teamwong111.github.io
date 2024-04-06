@@ -3,7 +3,7 @@ layout:     post
 title:      "读《重构》"
 subtile:    "试图重构《重构》"
 date:       2021-07-17 14:00:00
-author:     "Wungjz"
+author:     "jz wong"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 阅读
