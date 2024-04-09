@@ -1,9 +1,9 @@
 {
-    "name": "wungjz-blog",
-    "title": "Wungjz Blog",
+    "name": "jzwong-blog",
+    "title": "JZWong Blog",
     "version": "1.0.0",
     "homepage": "http://teamwong111.github.io",
-    "author": "Wungjz",
+    "author": "JZWong",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-contrib-less": "~0.11.4",

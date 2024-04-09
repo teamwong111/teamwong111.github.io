@@ -1,8 +1,8 @@
 # Site settings
-title: Wungjz Blog
-SEOTitle: Nothing important | Wungjz Blog
+title: JZWong Blog
+SEOTitle: Nothing important | JZWong Blog
 header-img: img/home-bg.jpg
-email: wungjz@outlook.com
+email: jzwong@foxmail.com
 description: ""
 keyword: ""
 url: "https://teamwong111.github.io/"   # your host, for absolute URL
@@ -38,7 +38,7 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 # Disqus settings
-disqus_username: Wungjz
+disqus_username: JZWong
 
 
 # Analytics settings
